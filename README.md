@@ -9,3 +9,5 @@ As i'll progress further, I'll update the same.
 18-09-2022 21:40-
 - Upadated UI of Landing Page
 - Added CSS 
+
+https://sn1perdj.github.io/odin-recipes/
